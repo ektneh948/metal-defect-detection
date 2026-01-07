@@ -21,16 +21,16 @@
 ## 🛠️ 프로젝트 진행과정
 
 
-<img src="images/그림01.jpg" alt="설명" style="width: 400px; height: auto;">
+<img src="images/그림01.jpg" alt="설명" style="width: 800px; height: auto;">
 
 <br />
-<img src="images/그림02.jpg" alt="설명" style="width: 400px; height: auto;">
+<img src="images/그림02.jpg" alt="설명" style="width: 800px; height: auto;">
 
 <br />
-<img src="images/그림03.jpg" alt="설명" style="width: 400px; height: auto;">
+<img src="images/그림03.jpg" alt="설명" style="width: 800px; height: auto;">
 
 <br />
-<img src="images/그림04.png" alt="설명" style="width: 400px; height: auto;">
+<img src="images/그림04.png" alt="설명" style="width: 800px; height: auto;">
 
 
 <br />
@@ -38,5 +38,5 @@
 
 
 ## 📝 ERD 설계
-<img src="images/Untitled (1).png" alt="설명" style="width: 600px; height: auto;">
+<img src="images/Untitled (1).png" alt="설명" style="width: 800px; height: auto;">
 <br />
